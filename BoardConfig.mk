@@ -177,7 +177,7 @@ TARGET_RELEASETOOLS_EXTENSIONS := $(DEVICE_PATH)
 OVERRIDE_RS_DRIVER := libRSDriver_adreno.so
 
 # Security Patch Level
-VENDOR_SECURITY_PATCH := 2019-09-01
+VENDOR_SECURITY_PATCH := 2020-09-01
 
 # SELinux
 include device/qcom/sepolicy_vndr/SEPolicy.mk
